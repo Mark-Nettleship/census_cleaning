@@ -8,9 +8,13 @@ First, the data was inspected and cleaned, then new columns were added to allow 
 Then, the following questions were investigated:
 
 Is there a correlation between higher tax agreement and income?
+
 Is there a correlation between higher tax agreement and number of children?
+
 Is there a correlation between age group and income?
+
 Is there a correlation between income and number of children?
+
 How much support is there for a higher tax rate?
 
 ## Spoilers below:
